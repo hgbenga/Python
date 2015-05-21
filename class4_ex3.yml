@@ -49,8 +49,7 @@ arista_vlan.yml
             
   arista_coomand.yml
   ===================================
-  
-  ---
+---
 
 - name: Arista Ansible testing
   hosts: arista
